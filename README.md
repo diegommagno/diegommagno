@@ -32,7 +32,6 @@
 
 ## 🌟 Github Badges
 <p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
 </p>
 
 ## 🏆 GitHub Trophies
