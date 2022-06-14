@@ -1,11 +1,9 @@
-# Hi there 👋, My name is Diego
-
 <img width="100%" src="https://drive.google.com/uc?id=1JvQ-hjcfSKwW8K04Fy8IQRug4GFSby-F" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Conduent Inc.</p>
 <p>🌱 I'm currently learning HTML, CSS and JavaScript (Explorer @rocketseat)</p>
-<p>💬 Ask me about macOS or Windows</p>
+<p>💬 Ask me about macOS</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
 <p>I regularly write articles on <a href="">diegommagno.com</a></p>
 <p>⚡ Fun Fact: ♥ Apple</p>
