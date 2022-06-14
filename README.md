@@ -1,4 +1,4 @@
-<img width="100%" src="https://drive.google.com/uc?id=1JvQ-hjcfSKwW8K04Fy8IQRug4GFSby-F" alt="my banner">
+<img width="100%" src="https://drive.google.com/uc?id=1m1gv4F0SRPy0jdUTF7IOJftTatxMGrC5" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
 <p>🔭 I'm currently working on Conduent Inc.</p>
