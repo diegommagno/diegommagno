@@ -6,6 +6,7 @@
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
 <p>⚡ Fun Fact: ♥ Apple</p>
+<br />
 
 ## 💻 Tech Skills
 <p>
@@ -19,15 +20,15 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
-
+<br />
 
 ## 👥 Connect With Me
 <p>
-<a target="_blank" href="https://linkedin.com/in/diegomartinellimagno"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a target="_blank" href="https://twitter.com/diegommagno"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a target="_blank" href="https://www.instagram.com/diegommagno.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://linkedin.com/in/diegomartinellimagno"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://twitter.com/diegommagno"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.instagram.com/diegommagno.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
-
+<br />
 
 ## 📊 Github Status
 
