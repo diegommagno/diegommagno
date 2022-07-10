@@ -50,13 +50,16 @@
 ## 👥 Connect With Me
 
 <p>
-<a href="https://linkedin.com/in/diegomartinellimagno"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/diegommagno"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href='https://linkedin.com/in/diegomartinellimagno'>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href='https://twitter.com/diegommagno'>
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+<a href='https://www.instagram.com/diegommagno.dev/'>
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
-
 </p>
-<br />
 
 ## 📊 Github Status
 
