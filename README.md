@@ -11,8 +11,8 @@
 
 ## ⭐️ GitHub Structure
 To easier navigate my repos and projects, I created two lists.
-<br/>List with all repos [here](https://github.com/diegommagno/github-structure/tree/main/projects-list).
-<br/>List with all repos and projects [here](https://github.com/diegommagno/github-structure/tree/main/repositories-list).
+<br/>List with all repos [here](https://github.com/diegommagno/github-structure/tree/main/repositories-list).
+<br/>List with all repos and projects [here](https://github.com/diegommagno/github-structure/tree/main/projects-list).
 
 <br/><br/>
 
