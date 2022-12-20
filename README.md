@@ -1,12 +1,20 @@
 <img width="100%" src="https://drive.google.com/uc?id=1m1gv4F0SRPy0jdUTF7IOJftTatxMGrC5" alt="my banner">
 
-## 💫 Liitle Bit More About Me
+## 💫 Little Bit More About Me
 <p>🔭 Working at Conduent Inc.</p>
 <p>🧩 Currently learning about <b>HTML, CSS, JavaScript and Node.js</b> @rocketseat.com.br</p>
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
 <p>⚡ Fun Fact: ♥ Apple</p>
 <br />
+
+
+## ⭐️ GitHub Structure
+To easier navigate my repos and projects, I created two lists.
+<br/>List with all repos [here](https://github.com/diegommagno/github-structure/tree/main/projects-list).
+<br/>List with all repos and projects [here](https://github.com/diegommagno/github-structure/tree/main/repositories-list).
+
+<br/><br/>
 
 ## 💻 Tech Skills
 <p>
@@ -46,8 +54,10 @@
 <img src="https://skillicons.dev/icons?i=figma"/>
 </a>
 </p>
+  
+<br/><br/>
 
-## 👥 Connect With Me
+## 🧑🏻‍💻👩🏻‍💻 Connect 
 
 <p>
 <a href='https://linkedin.com/in/diegomartinellimagno'>
@@ -60,6 +70,8 @@
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 </p>
+
+<br/><br/>
 
 ## 📊 Github Status
 
