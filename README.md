@@ -1,4 +1,6 @@
-<img width="100%" src="https://drive.google.com/uc?id=1m1gv4F0SRPy0jdUTF7IOJftTatxMGrC5" alt="my banner">
+<img width="100%" src="./.github/diegommagno-github-banner.png" alt="my banner">
+
+<br/>
 
 ## 💫 Little Bit More About Me
 <p>🔭 Working at Conduent Inc.</p>
