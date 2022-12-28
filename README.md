@@ -6,8 +6,8 @@
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
 <p>⚡ Fun Fact: ♥ Apple</p>
-<br />
 
+<br/><br/>
 
 ## ⭐️ GitHub Structure
 To easier navigate my repos and projects, I created two lists.
