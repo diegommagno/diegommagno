@@ -1,7 +1,5 @@
 <img width="100%" src="./.github/diegommagno-github-banner.png" alt="my banner">
 
-<br/>
-
 ## 💫 Little Bit More About Me
 <p>🔭 Working at Conduent Inc.</p>
 <p>🧩 Currently learning about <b>HTML, CSS, JavaScript and Node.js</b> @rocketseat.com.br</p>
