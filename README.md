@@ -73,13 +73,8 @@ To easier navigate my repos and projects, I created two lists.
 
 <br/><br/>
 
-## 📊 Github Status
+## 📊 GitHub Status
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegommagno&layout=compact"><p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=diegommagno&theme=github-dark-blue&border=44636D&background=0D1117)](https://git.io/streak-stats)
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=diegommagno"><p>
-
-<p><img src="https://visitcount.itsvg.in/api?id=diegommagno&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jeremarques&theme=github-dark-blue&border=44636D&background=0D1117)](https://git.io/streak-stats)
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegommagno&layout=compact&langs_count=7&theme=github_dark"/>
