@@ -2,7 +2,7 @@
 
 ## 💫 Little Bit More About Me
 <p>🔭 Working at Conduent Inc.</p>
-<p>🚀 Never Stop Learning - Studying @rocketseat.com.br</p>
+<p>🚀 #NeverStopLearning - Studying @rocketseat.com.br</p>
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
 <p>⚡ Fun Fact: ♥ Apple</p>
