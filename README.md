@@ -5,7 +5,6 @@
 <p>🚀 #NeverStopLearning - Studying @rocketseat.com.br</p>
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
-<p>⚡ Fun Fact: ♥ Apple</p>
 
 <br/><br/>
 
