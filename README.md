@@ -1,7 +1,7 @@
 <img width="100%" src="./.github/diegommagno-github-banner.png" alt="my banner">
 
-## 💫 Little Bit More About Me
-<p>🔭 Working at Conduent Inc.</p>
+## 🧩 About Me
+<p>⚽️ Working at bet365  </p>
 <p>🚀 #NeverStopLearning - Studying @rocketseat.com.br</p>
 <p>💬 Ask me about living in the UK, Italy and Brazil 🇬🇧 🇮🇹 🇧🇷</p>
 <p>📫 How to reach me? contact@diegommagno.com</p>
